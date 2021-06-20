@@ -1,7 +1,9 @@
-# Ezequiel_Eliano
+## Ezequiel_Eliano
 CV Ezequiel Eliano https://github.com/Sombory
+E-mail: ezequielsombory@gmail.com
+Linkedin: https://www.linkedin.com/in/ezequiel-eliano-sombory-b57b635b/
 
-_*BACKGROUND ACADÉMICO*_
+# *BACKGROUND ACADÉMICO*_
   - MIT (Massachusetts Institute of Technology). Micromaster. Data Analysis for Social Scientists Python & R-Studio (MOOC-Micro Master Program), 2017-2018.
   - UNTREF (Universidad Tres de Febrero). Programa Intensivo Análisis Espacial con Python. Mg. Felipe González (UBA-New York University) 2017-2018.
   - UTDT (Universidad Torcuato Di Tella) Programa Intensivo Escuela de Negocio. Entrepreneurship, 2015.
@@ -14,7 +16,7 @@ _*BACKGROUND ACADÉMICO*_
   Promedio general 7.00
 
 
-*BACKGROUND LABORAL*
+# *BACKGROUND LABORAL*
 
   -	Prisma Medio de Pago. Data Science of Big Data & Analytics (Oct-2020 a Presente)
 I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) generaros en Python, Databriks, Spark, AWS
@@ -50,7 +52,7 @@ Principales Logros:
 Análisis de mercado y principales variables del desempeño dentro del negocio Clorox, 3M, J&J, Nutricia Bagó, Sunstary Diageo. Armado de modelos econométricos predictivos (Mod. Reg. Multivariable y ANOVA)
 
 
-*ACTIVIDADES DE DOCENCIA*
+# *ACTIVIDADES DE DOCENCIA*
 
   - Docente Titular. Modelos Predictivos. ITBA (Instituto Tecnológico de Buenos Aires). 2019-prente.
   - Docente adjunto. Taller de Economía Aplicada. Pontificia Universidad Católica Argentina Santa María de los Buenos Aires (UCA). 13-03-2018-prente.
@@ -62,7 +64,7 @@ Análisis de mercado y principales variables del desempeño dentro del negocio C
   - Ayudante de segunda: Historia Económica Argentina, Cátedra S. Villarruel, Profesor Titular Raúl García Heras, U.B.A.-F.C.E. (2007-2011).
 
 
-*PUBLICACIONES*
+# *PUBLICACIONES*
 
   1.	Autor Libro: Escenarios para INNOVAR: Trayectoria tecnológica de la cementera Loma Negra. ISBN: 978-987-3764-26-4. Leguaje Claro Editora Portugal 2951, (B1606EFA) Carapachay. Buenos Aires 2018.
   2.	“Modelos de Reversión de cuenta externa: Los casos en comparativa de Argentina, Colombia y Brasil”. Ensayos de Política Económica. Facultad de Ciencias Económicas de la Universidad Católica Argentina.  AÑO 2017. ISSN 2313-979X - Año XI Vol. II Nro. 5. link
