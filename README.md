@@ -1,7 +1,6 @@
 # Ezequiel_Eliano
-CV Ezequiel Eliano https://github.com/Sombory
-E-mail: ezequielsombory@gmail.com
-Linkedin: https://www.linkedin.com/in/ezequiel-eliano-sombory-b57b635b/
+CV Ezequiel Eliano https://github.com/Sombory                                                                                         E-mail: ezequielsombory@gmail.com
+
 
 ### *BACKGROUND ACADÉMICO*
   - MIT (Massachusetts Institute of Technology). Micromaster. Data Analysis for Social Scientists Python & R-Studio (MOOC-Micro Master Program), 2017-2018.
