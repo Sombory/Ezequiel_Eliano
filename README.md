@@ -1,7 +1,7 @@
 # Ezequiel_Eliano
-CV Ezequiel Eliano https://sombory.github.io/Ezequiel_Eliano/
+CV Ezequiel Eliano https://github.com/Sombory
 
-*BACKGROUND ACADÉMICO*
+_*BACKGROUND ACADÉMICO*_
   - MIT (Massachusetts Institute of Technology). Micromaster. Data Analysis for Social Scientists Python & R-Studio (MOOC-Micro Master Program), 2017-2018.
   - UNTREF (Universidad Tres de Febrero). Programa Intensivo Análisis Espacial con Python. Mg. Felipe González (UBA-New York University) 2017-2018.
   - UTDT (Universidad Torcuato Di Tella) Programa Intensivo Escuela de Negocio. Entrepreneurship, 2015.
@@ -30,7 +30,6 @@ Coordinar la elaboración e implementación de modelos de programación macroeco
 Informes de coyuntura económica y la elaboración de indicadores e informes periódicos que permitan evaluar el desempeño de la economía.
 
   -	CIPPEC. Coordinador Área de Desarrollo Económico (Jul-2016 a Jun-2017)
-
 Coordinador Programa de Desarrollo Económico cuyo objetivo fundamental es contribuir al debate para una estrategia de desarrollo productivo e integración global para el crecimiento con equidad de largo plazo de la Argentina, con los distintos niveles de gobierno, el sector privado, la academia y representantes de la sociedad civil.
 -Definir la agenda estratégica del Programa, consistente con las definiciones generales de la institución.
 -Liderar un equipo de investigadores asociados y principales, especialistas en las distintas temáticas del Programa.
@@ -89,9 +88,9 @@ Análisis de mercado y principales variables del desempeño dentro del negocio C
 
 
 *FORMACIÓN- CAPACITACIÓN*
-
-  -Digital House: Programa Intensivo Big-Data y Data-Drive. 2021
-  -Programa Machine Learning A-Z. Python Avanzado. 2020 Udemy Link
+  
+  - Digital House: Programa Intensivo Big-Data y Data-Drive. 2021
+  - Programa Machine Learning A-Z. Python Avanzado. 2020 Udemy Link
   -	Programa Intensivo Análisis Renta Fija. EAFP (2019), Certificado: Link
   -	Panelista. Seminario Capitalismo Contemporáneo de América Latina: China: Beijing – Chengdu – Shanghai. CEPAL – CIPPEC – Getulio Vargas. Dic-2016.
   -	Disertante. Seminario Integración Sur-Sur China-América Latina. CIPPEC –Embajada de la República Popular China. Beijing- Buenos Aires. Sep-2016.
