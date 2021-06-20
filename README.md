@@ -1,5 +1,6 @@
 # Ezequiel_Eliano
-CV Ezequiel Eliano https://github.com/Sombory                                                                                         E-mail: ezequielsombory@gmail.com
+CV Ezequiel Eliano https://github.com/Sombory                                                                                      
+E-mail: ezequielsombory@gmail.com
 
 
 ### *BACKGROUND ACADÉMICO*
