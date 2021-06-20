@@ -20,38 +20,29 @@
 
 ### *BACKGROUND LABORAL*
 
-  -	Prisma Medio de Pago. Data Science of Big Data & Analytics (Oct-2020 a Presente)
-  	    I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) generaros en Python, Databriks, Spark, AWS
+  -	Prisma Medios de Pago. Data Science of Big Data & Analytics (Oct-2020 a Presente):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) sobre la plataforma tecnológicas Python, Databricks, Spark, SQL-Server, , AWS.
 
 
-  -	Group WPP -Mindshare: Big Data & BI Research (Ago-2018 a Oct-2020)
- Análisis de regresión y modelos IA en minería de datos para industria digital y agencias de medios y comunicación masiva.
-Statistics skills: statistical testing, regression, k-NN, Naive Bayes, SVM, Decision Forests.
+  -	Group WPP -Mindshare: Big Data & BI Research (Ago-2018 a Oct-2020):  Análisis de regresión y modelos IA en minería de datos para industria digital y agencias de medios y comunicación masiva. Statistics skills: statistical testing, regression, k-NN, Naive Bayes, SVM, Decision Forests.
 
-  -	Asesor Subsecretaría de Planificación Macroeconómica (SSPM), MECON. (Jun-2017 a Ago-2018)
- Coordinar proyecto Web Información Económica al Día. (APIs y Clúster Power Bio).
-Coordinar la elaboración e implementación de modelos de programación macroeconómica y efectuar el análisis de consistencia política.
+  -	Asesor Subsecretaría de Planificación Macroeconómica (SSPM), MECON. (Jun-2017 a Ago-2018): Coordinar proyecto Web Información Económica al Día. (APIs y Clúster Power Bio). Coordinar la elaboración e implementación de modelos de programación macroeconómica y efectuar el análisis de consistencia política.
 Informes de coyuntura económica y la elaboración de indicadores e informes periódicos que permitan evaluar el desempeño de la economía.
 
-  -	CIPPEC. Coordinador Área de Desarrollo Económico (Jul-2016 a Jun-2017)
-Coordinador Programa de Desarrollo Económico cuyo objetivo fundamental es contribuir al debate para una estrategia de desarrollo productivo e integración global para el crecimiento con equidad de largo plazo de la Argentina, con los distintos niveles de gobierno, el sector privado, la academia y representantes de la sociedad civil.
+  -	CIPPEC. Coordinador Área de Desarrollo Económico (Jul-2016 a Jun-2017): Coordinador Programa de Desarrollo Económico cuyo objetivo fundamental es contribuir al debate para una estrategia de desarrollo productivo e integración global para el crecimiento con equidad de largo plazo de la Argentina, con los distintos niveles de gobierno, el sector privado, la academia y representantes de la sociedad civil.
 -Definir la agenda estratégica del Programa, consistente con las definiciones generales de la institución.
 -Liderar un equipo de investigadores asociados y principales, especialistas en las distintas temáticas del Programa.
 -Programa de gobiernos abiertos y digitalización de bases de datos públicas
 Liderar técnicas con modelos predictivos y Machine Learning para toma de desiciones de política publica basada en datos.
 
-  -  MINIDEF-CYT. Coordinador Negocios Corporativos (Ene-2014 a jun-2016)
-Encargado del análisis y planeación de nuevos negocios corporativos para la secretaria de CyT y Producción. Área Naval y Metal Mecánica. Seguimiento y coordinación de análisis de indicadores, métricas, presupuesto y metas para optimizar la gestión (P&L, Cash Flow, Score Card, Financial Highlights, Análisis de Fondos y Módulos de Actividad).
+  -  MINIDEF-CYT. Coordinador Negocios Corporativos (Ene-2014 a jun-2016): Encargado del análisis y planeación de nuevos negocios corporativos para la secretaria de CyT y Producción. Área Naval y Metal Mecánica. Seguimiento y coordinación de análisis de indicadores, métricas, presupuesto y metas para optimizar la gestión (P&L, Cash Flow, Score Card, Financial Highlights, Análisis de Fondos y Módulos de Actividad).
 
-  -	3M. Sr. Analyst of Pricing & Finance. (May-2010 a Ene-2014)
-Responsable en el armado de presentaciones y análisis sobre el desempeño en Sales, Costs y GrossMargin, para Arg. Uru y Chi.  Seguimiento y control de la inflación en costos, cálculos de rentabilidad de cada unidad de negocios dentro del aérea Financiera. Análisis de P&L, generación e implementación consolidación del MBS (Master Business Solution).
+  -	3M. Sr. Analyst of Pricing & Finance. (May-2010 a Ene-2014): Responsable en el armado de presentaciones y análisis sobre el desempeño en Sales, Costs y GrossMargin, para Arg. Uru y Chi.  Seguimiento y control de la inflación en costos, cálculos de rentabilidad de cada unidad de negocios dentro del aérea Financiera. Análisis de P&L, generación e implementación consolidación del MBS (Master Business Solution).
 Principales Logros:
 -Start Up del departamento Princing para Hub Regional.
 -Nominación: 3M Finance Beacon Award Program; 2011 Awardees Argentina Price Increase Execution.
 -Disminuir el nivel de desvíos en un 90%, entre el valor teórico o precio de lista de los SKU frente al precio realmente facturado en todos los negocios 3M.
 
-  - NIELSEN. Account Executive. (Jun-2008 a May-2010)
-Análisis de mercado y principales variables del desempeño dentro del negocio Clorox, 3M, J&J, Nutricia Bagó, Sunstary Diageo. Armado de modelos econométricos predictivos (Mod. Reg. Multivariable y ANOVA)
+  - NIELSEN. Account Executive. (Jun-2008 a May-2010): Análisis de mercado y principales variables del desempeño dentro del negocio Clorox, 3M, J&J, Nutricia Bagó, Sunstary Diageo. Armado de modelos econométricos predictivos (Mod. Reg. Multivariable y ANOVA)
 
 
 ### *ACTIVIDADES DE DOCENCIA*
@@ -59,16 +50,16 @@ Análisis de mercado y principales variables del desempeño dentro del negocio C
   - Docente Titular. Modelos Predictivos. ITBA (Instituto Tecnológico de Buenos Aires). 2019-prente.
   - Docente adjunto. Taller de Economía Aplicada. Pontificia Universidad Católica Argentina Santa María de los Buenos Aires (UCA). 2018-2020.
   - Docente adjunto. Economía Aplicada. Escuela Argentina de Negocios (EAN). 2018-2020
-  - Docente ayudante de primera Materia Metodología y Epistemología para la economía. Maestría en Tributación Internacional. UBA-FEC (2017). Cátedra Victoria Guiarrizzo
+  - Docente ayudante de primera Materia Metodología y Epistemología para la economía. Maestría en Tributación Internacional. UBA-FCE (2017). Cátedra Victoria Guiarrizzo
   - Capacitador “Gestión de la Innovación”. La inserción de la tecnología y la innovación como ventajas competitivas y elementos estratégicos del mundo empresario. CAFFCO (2016). Link
   - Coordinador docente: “Programa de Capacitación y Asistencia para la Gestión Tecnológica en base a niveles de madurez de la tecnología Technology ReadinessLevels. TRLs”. MINCYT / BID (2015).
-  - Ayudante de segunda: Epistemología de la economía. Cátedra Victoria Guiarrizzo, Profesor U.B.A.-F.C.E. (2010).
-  - Ayudante de segunda: Historia Económica Argentina, Cátedra S. Villarruel, Profesor Titular Raúl García Heras, U.B.A.-F.C.E. (2007-2011).
+  - Ayudante de segunda: Epistemología de la economía. Cátedra Victoria Guiarrizzo, Profesor UBA-FCE. (2010).
+  - Ayudante de segunda: Historia Económica Argentina, Cátedra S. Villarruel, Profesor Titular Raúl García Heras, UBA-FCE. (2007-2011).
 
 
 ### *PUBLICACIONES*
 
-  1.	Autor Libro: Escenarios para INNOVAR: Trayectoria tecnológica de la cementera Loma Negra. ISBN: 978-987-3764-26-4. Leguaje Claro Editora Portugal 2951, (B1606EFA) Carapachay. Buenos Aires 2018.
+  1.	Autor Libro: Escenarios para INNOVAR: Trayectoria tecnológica de la cementera Loma Negra. ISBN: 978-987-3764-26-4. Leguaje Claro Editora Portugal 2951, (B1606EFA) Carapachay. Bs. As. 2018.
   2.	“Modelos de Reversión de cuenta externa: Los casos en comparativa de Argentina, Colombia y Brasil”. Ensayos de Política Económica. Facultad de Ciencias Económicas de la Universidad Católica Argentina.  AÑO 2017. ISSN 2313-979X - Año XI Vol. II Nro. 5. link
   3.	Crecimiento, PTF y PIB Potencial en Argentina (con Luciano Cohan, Ivan Baumman Fonay y Fernando Toledo). Ministerio de Economía. Junio 2018. Doc Nº1. Link
   4.	Desempeño, crecimiento y transformación del encadenamiento textil en Argentina. Informe Competitor Consultora CLAVES. 2018.
