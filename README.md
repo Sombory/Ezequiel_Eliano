@@ -57,8 +57,8 @@ Análisis de mercado y principales variables del desempeño dentro del negocio C
 ### *ACTIVIDADES DE DOCENCIA*
 
   - Docente Titular. Modelos Predictivos. ITBA (Instituto Tecnológico de Buenos Aires). 2019-prente.
-  - Docente adjunto. Taller de Economía Aplicada. Pontificia Universidad Católica Argentina Santa María de los Buenos Aires (UCA). 13-03-2018-prente.
-  - Docente adjunto. Economía Aplicada. Escuela Argentina de Negocios (EAN). 15-03-2018 -presente
+  - Docente adjunto. Taller de Economía Aplicada. Pontificia Universidad Católica Argentina Santa María de los Buenos Aires (UCA). 2018-2020.
+  - Docente adjunto. Economía Aplicada. Escuela Argentina de Negocios (EAN). 2018-2020
   - Docente ayudante de primera Materia Metodología y Epistemología para la economía. Maestría en Tributación Internacional. UBA-FEC (2017). Cátedra Victoria Guiarrizzo
   - Capacitador “Gestión de la Innovación”. La inserción de la tecnología y la innovación como ventajas competitivas y elementos estratégicos del mundo empresario. CAFFCO (2016). Link
   - Coordinador docente: “Programa de Capacitación y Asistencia para la Gestión Tecnológica en base a niveles de madurez de la tecnología Technology ReadinessLevels. TRLs”. MINCYT / BID (2015).
