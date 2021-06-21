@@ -1,7 +1,7 @@
 # CV Ezequiel Eliano Sombory
 ![image](https://user-images.githubusercontent.com/47150356/122691686-9f0d8700-d207-11eb-965d-09f8ea18c5e8.png)
   - *https://github.com/Sombory*
-  - Mail: *ezequielsombory@gmail.com*
+  - *ezequielsombory@gmail.com*
 
 
 
@@ -20,10 +20,12 @@
 
 ### *BACKGROUND LABORAL*
 
-  -	Prisma Medios de Pago. Data Science of Big Data & Analytics (Oct-2020 a Presente):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) sobre la plataforma tecnológicas Python, Databricks, Spark, SQL-Server, , AWS.
+  -	#*Prisma Medios de Pago*. Data Science of Big Data & Analytics (Oct-2020 a Presente):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) 
+Tecnologías: *#Python, #Databricks, #Spark, #SQL-Server, #MicroStrategy, #Power-BI , AWS (S3 Y S2 SalesMaker)*.
 
 
   -	Group WPP -Mindshare: Big Data & BI Research (Ago-2018 a Oct-2020):  Análisis de regresión y modelos IA en minería de datos para industria digital y agencias de medios y comunicación masiva. Statistics skills: statistical testing, regression, k-NN, Naive Bayes, SVM, Decision Forests.
+Tecnologías: *#Python, #R-Studi, #Airflow, #Azure #Databricks, #Spark, #SQL-Server, #Tableau, #Power-BI , #AWS (S3 Y S2 SalesMaker)*.
 
   -	Asesor Subsecretaría de Planificación Macroeconómica (SSPM), MECON. (Jun-2017 a Ago-2018): Coordinar proyecto Web Información Económica al Día. (APIs y Clúster Power Bio). Coordinar la elaboración e implementación de modelos de programación macroeconómica y efectuar el análisis de consistencia política.
 Informes de coyuntura económica y la elaboración de indicadores e informes periódicos que permitan evaluar el desempeño de la economía.
