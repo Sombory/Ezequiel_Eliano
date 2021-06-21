@@ -1,4 +1,4 @@
-# CV Ezequiel Eliano Sombory
+# CV / BIO 
 ![image](https://user-images.githubusercontent.com/47150356/122691686-9f0d8700-d207-11eb-965d-09f8ea18c5e8.png)
   - *https://github.com/Sombory*
   - *ezequielsombory@gmail.com*
