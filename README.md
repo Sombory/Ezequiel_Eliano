@@ -20,14 +20,23 @@
 
 ### *BACKGROUND LABORAL*
 
-  -	#*Prisma Medios de Pago*. Data Science of Big Data & Analytics (Oct-2020 a Presente):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) 
-Tecnologías: *#Python, #Databricks, #Spark, #SQL-Server, #MicroStrategy, #Power-BI , AWS (S3 Y S2 SalesMaker)*.
+  -	*Prisma Medios de Pago*. Data Science of Big Data & Analytics (Oct-2020 a Presente):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) 
+*Proyectos*:
+    - Molelos Predictivo Fallas de Terminales (algoritmo: xgboost, lightgbm)
+    - Modelos de clústerización de cuentas (Algoritmo: k-mean, dbscan, knn)
+    - Modelos RFM clúster por score (Algoritmo: SVM)
+    - Life Time Value (BI data discovery y algoritmo: RNN)
+    - Proyecto Telcos predicción fraude y mora-30 (Algoritmo: xgboost y ANOVA)
+    - Sistema de Recomendación 2.0 (lightfm)
+    - Analisis de ticket modelo IA procesamiento de lenguaje
+    - Proyectos Market Place Plataforma Prisma-Home
+    
+*Tecnologías*: *#Python, #R, #Databricks, #Spark, #SQL-Server, #MicroStrategy, #Power-BI , #AWS (S3, S2, EC2, SagesMaker), #Cloud-Azure*.
 
+  -	*Group WPP* -Mindshare: Big Data & BI Research (Ago-2018 a Oct-2020):  Análisis de regresión y modelos IA en minería de datos para industria digital y agencias de medios y comunicación masiva. Statistics skills: statistical testing, regression, k-NN, Naive Bayes, SVM, Decision Forests.
+Tecnologías: *#Python, #R-Studio, #Airflow, #Azure #Databricks, #Spark, #SQL-Server, #Tableau, #Power-BI , #AWS (S3 Y S2 SalesMaker)*.
 
-  -	Group WPP -Mindshare: Big Data & BI Research (Ago-2018 a Oct-2020):  Análisis de regresión y modelos IA en minería de datos para industria digital y agencias de medios y comunicación masiva. Statistics skills: statistical testing, regression, k-NN, Naive Bayes, SVM, Decision Forests.
-Tecnologías: *#Python, #R-Studi, #Airflow, #Azure #Databricks, #Spark, #SQL-Server, #Tableau, #Power-BI , #AWS (S3 Y S2 SalesMaker)*.
-
-  -	Asesor Subsecretaría de Planificación Macroeconómica (SSPM), MECON. (Jun-2017 a Ago-2018): Coordinar proyecto Web Información Económica al Día. (APIs y Clúster Power Bio). Coordinar la elaboración e implementación de modelos de programación macroeconómica y efectuar el análisis de consistencia política.
+  -	*Asesor Subsecretaría de Planificación Macroeconómica* (SSPM), MECON. (Jun-2017 a Ago-2018): Coordinar proyecto Web Información Económica al Día. (APIs y Clúster Power Bio). Coordinar la elaboración e implementación de modelos de programación macroeconómica y efectuar el análisis de consistencia política.
 Informes de coyuntura económica y la elaboración de indicadores e informes periódicos que permitan evaluar el desempeño de la economía.
 
   -	CIPPEC. Coordinador Área de Desarrollo Económico (Jul-2016 a Jun-2017): Coordinador Programa de Desarrollo Económico cuyo objetivo fundamental es contribuir al debate para una estrategia de desarrollo productivo e integración global para el crecimiento con equidad de largo plazo de la Argentina, con los distintos niveles de gobierno, el sector privado, la academia y representantes de la sociedad civil.
