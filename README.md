@@ -28,10 +28,11 @@
     - Life Time Value (BI data discovery y algoritmo: RNN)
     - Proyecto Telcos predicción fraude y mora-30 (Algoritmo: xgboost y ANOVA)
     - Sistema de Recomendación 2.0 (lightfm)
-    - Analisis de ticket modelo IA procesamiento de lenguaje
+    - Analisis de ticket modelo IA procesamiento de lenguaje natural
+    - Proyecto API-Geo.espacial capas socio demográficas (geo-pandas)
     - Proyectos Market Place Plataforma Prisma-Home
     
-*Tecnologías*: *#Python, #R, #Databricks, #Spark, #SQL-Server, #MicroStrategy, #Power-BI , #AWS (S3, S2, EC2, SagesMaker), #Cloud-Azure*.
+#### *Tecnologías*: #Python, #Databricks, #Docket, #Pickle #Spark, #Teradata, #R, #SQL-Server, #MicroStrategy, #Power-BI , #AWS (S3, S2, EC2, SagesMaker), #Cloud-Azure.
 
   -	*Group WPP* -Mindshare: Big Data & BI Research (Ago-2018 a Oct-2020):  Análisis de regresión y modelos IA en minería de datos para industria digital y agencias de medios y comunicación masiva. Statistics skills: statistical testing, regression, k-NN, Naive Bayes, SVM, Decision Forests.
 Tecnologías: *#Python, #R-Studio, #Airflow, #Azure #Databricks, #Spark, #SQL-Server, #Tableau, #Power-BI , #AWS (S3 Y S2 SalesMaker)*.
@@ -40,9 +41,9 @@ Tecnologías: *#Python, #R-Studio, #Airflow, #Azure #Databricks, #Spark, #SQL-Se
 Informes de coyuntura económica y la elaboración de indicadores e informes periódicos que permitan evaluar el desempeño de la economía.
 
   -	CIPPEC. Coordinador Área de Desarrollo Económico (Jul-2016 a Jun-2017): Coordinador Programa de Desarrollo Económico cuyo objetivo fundamental es contribuir al debate para una estrategia de desarrollo productivo e integración global para el crecimiento con equidad de largo plazo de la Argentina, con los distintos niveles de gobierno, el sector privado, la academia y representantes de la sociedad civil.
--Definir la agenda estratégica del Programa, consistente con las definiciones generales de la institución.
--Liderar un equipo de investigadores asociados y principales, especialistas en las distintas temáticas del Programa.
--Programa de gobiernos abiertos y digitalización de bases de datos públicas
+  -Definir la agenda estratégica del Programa, consistente con las definiciones generales de la institución.
+  -Liderar un equipo de investigadores asociados y principales, especialistas en las distintas temáticas del Programa.
+  -Programa de gobiernos abiertos y digitalización de bases de datos públicas
 Liderar técnicas con modelos predictivos y Machine Learning para toma de desiciones de política publica basada en datos.
 
   -  MINIDEF-CYT. Coordinador Negocios Corporativos (Ene-2014 a jun-2016): Encargado del análisis y planeación de nuevos negocios corporativos para la secretaria de CyT y Producción. Área Naval y Metal Mecánica. Seguimiento y coordinación de análisis de indicadores, métricas, presupuesto y metas para optimizar la gestión (P&L, Cash Flow, Score Card, Financial Highlights, Análisis de Fondos y Módulos de Actividad).
