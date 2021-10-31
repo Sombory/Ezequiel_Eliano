@@ -23,11 +23,11 @@
   -	*Prisma Medios de Pago*. Data Science of Big Data & Analytics (Oct-2020 a Presente):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) 
 *Proyectos*:
     - Molelos Predictivo Fallas de Terminales (algoritmo: xgboost, lightgbm)
+    - Sistema de Recomendación 2.0 (lightfm): Presentación #Nerdearla https://www.youtube.com/watch?v=oOOMiPUDEME&t=564s
     - Modelos de clústerización de cuentas (Algoritmo: k-mean, dbscan, knn)
     - Modelos RFM clúster por score (Algoritmo: SVM)
     - Life Time Value (BI data discovery y algoritmo: RNN)
     - Proyecto Telcos predicción fraude y mora-30 (Algoritmo: xgboost y ANOVA)
-    - Sistema de Recomendación 2.0 (lightfm)
     - Analisis de ticket modelo IA procesamiento de lenguaje natural
     - Proyecto API-Geo.espacial capas socio demográficas (geo-pandas)
     - Proyectos Market Place Plataforma Prisma-Home
