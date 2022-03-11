@@ -34,6 +34,8 @@
     
 #### *Tecnologías*: #Python, #Databricks, #Docket, #Pickle #Spark, #Teradata, #R, #SQL-Server, #MicroStrategy, #Power-BI , #AWS (S3, S2, EC2, SagesMaker), #Cloud-Azure.
 
+-	*Director carrera Licenciatura Analítica Empresarial y Social ITBA* (ene-2021 a Presente). https://www.itba.edu.ar/blog/de-docente-a-director/
+
   -	*Group WPP* -Mindshare: Big Data & BI Research (Ago-2018 a Oct-2020):  Análisis de regresión y modelos IA en minería de datos para industria digital y agencias de medios y comunicación masiva. Statistics skills: statistical testing, regression, k-NN, Naive Bayes, SVM, Decision Forests.
 Tecnologías: *#Python, #R-Studio, #Airflow, #Azure #Databricks, #Spark, #SQL-Server, #Tableau, #Power-BI , #AWS (S3 Y S2 SalesMaker)*.
 
