@@ -32,7 +32,7 @@
     - Proyecto API-Geo.espacial capas socio demográficas (geo-pandas)
     - Proyectos Market Place Plataforma Prisma-Home
     
-#### *Tecnologías*: #Python, #Databricks, #Docket, #Pickle #Spark, #Teradata, #R, #SQL-Server, #MicroStrategy, #Power-BI , #AWS (S3, S2, EC2, SagesMaker), #Cloud-Azure.
+#### *Tecnologías*: #SagesMaker, #Glue-jobs, #S3, #Athena, #Python, #Databricks, #Docker, #Pickle #Spark, #Teradata, #R, #SQL-Server, #MicroStrategy, #Power-BI , #AWS (IA/ML, EC2), #Cloud-Azure.
 
 -	*Director carrera Licenciatura Analítica Empresarial y Social ITBA* (ene-2021 a Presente). https://www.itba.edu.ar/blog/de-docente-a-director/
 
