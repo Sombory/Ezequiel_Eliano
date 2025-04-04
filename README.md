@@ -20,7 +20,12 @@
 
 ### *BACKGROUND LABORAL*
 
-  -	*Prisma Medios de Pago*. Data Science of Big Data & Analytics (Oct-2020 a Presente):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) 
+  -	**NaranjaX**. Tecnical Lead Data Science: Squad Hiperpersonalización. Gerencia Data&IA (Sep-2024 - Actualidad)
+  #### *Tecnologías*: #AWS-SagesMaker, #Snowflake, #Matillon, #Data-Iku, #GSP, #Azure, #Langchain #Feature Store, #Gitlab, #S3, #Athena, #Python, #Databricks, #Docker
+
+  -	**Director y docente Licenciatura Analítica Empresarial y Social (Data Science en ITBA** (ene-2021 a Presente). https://www.itba.edu.ar/blog/de-docente-a-director/
+
+  -	**Prisma Medios de Pago**. Data Science of Big Data & Analytics (Sep-2020 a Sep-2024):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) 
 *Proyectos*:
     - Modelo de Churn (ADABoost, XGboost, Lineal Lerner)
     - Molelos Predictivo Fallas de Terminales (algoritmo: xgboost, lightgbm)
@@ -32,12 +37,9 @@
     - Analisis de ticket modelo IA procesamiento de lenguaje natural
     - Proyecto API-Geo.espacial capas socio demográficas (geo-pandas)
     - Proyectos Market Place Plataforma Prisma-Home
-    
-#### *Tecnologías*: #SagesMaker, #Glue-jobs, #S3, #Athena, #Python, #Databricks, #Docker, #Pickle #Spark, #Teradata, #R, #SQL-Server, #MicroStrategy, #Power-BI , #AWS (IA/ML, EC2), #Cloud-Azure.
+#### *Tecnologías*: #SagesMaker, Airflow, Gitlab, #Glue-jobs, #S3, #Athena, #Python, #Databricks, #Docker, #Pickle #Spark, #Teradata, #SQL-Server, #MicroStrategy, #Power-BI , #AWS (IA/ML, EC2), #Cloud-Azure.
 
--	*Director carrera Licenciatura Analítica Empresarial y Social ITBA* (ene-2021 a Presente). https://www.itba.edu.ar/blog/de-docente-a-director/
-
-  -	*Group WPP* -Mindshare: Big Data & BI Research (Ago-2018 a Oct-2020):  Análisis de regresión y modelos IA en minería de datos para industria digital y agencias de medios y comunicación masiva. Statistics skills: statistical testing, regression, k-NN, Naive Bayes, SVM, Decision Forests.
+  -	**Group WPP** -Mindshare: Big Data & BI Research (Ago-2018 a Oct-2020):  Análisis de regresión y modelos IA en minería de datos para industria digital y agencias de medios y comunicación masiva. Statistics skills: statistical testing, regression, k-NN, Naive Bayes, SVM, Decision Forests.
 Tecnologías: *#Python, #R-Studio, #Airflow, #Azure #Databricks, #Spark, #SQL-Server, #Tableau, #Power-BI , #AWS (S3 Y S2 SalesMaker)*.
 
   -	*Asesor Subsecretaría de Planificación Macroeconómica* (SSPM), MECON. (Jun-2017 a Ago-2018): Coordinar proyecto Web Información Económica al Día. (APIs y Clúster Power Bio). Coordinar la elaboración e implementación de modelos de programación macroeconómica y efectuar el análisis de consistencia política.
@@ -51,7 +53,7 @@ Liderar técnicas con modelos predictivos y Machine Learning para toma de desici
 
   -  MINIDEF-CYT. Coordinador Negocios Corporativos (Ene-2014 a jun-2016): Encargado del análisis y planeación de nuevos negocios corporativos para la secretaria de CyT y Producción. Área Naval y Metal Mecánica. Seguimiento y coordinación de análisis de indicadores, métricas, presupuesto y metas para optimizar la gestión (P&L, Cash Flow, Score Card, Financial Highlights, Análisis de Fondos y Módulos de Actividad).
 
-  -	3M. Sr. Analyst of Pricing & Finance. (May-2010 a Ene-2014): Responsable en el armado de presentaciones y análisis sobre el desempeño en Sales, Costs y GrossMargin, para Arg. Uru y Chi.  Seguimiento y control de la inflación en costos, cálculos de rentabilidad de cada unidad de negocios dentro del aérea Financiera. Análisis de P&L, generación e implementación consolidación del MBS (Master Business Solution).
+  -	**3M**. Sr. Analyst of Pricing & Finance. (May-2010 a Ene-2014): Responsable en el armado de presentaciones y análisis sobre el desempeño en Sales, Costs y GrossMargin, para Arg. Uru y Chi.  Seguimiento y control de la inflación en costos, cálculos de rentabilidad de cada unidad de negocios dentro del aérea Financiera. Análisis de P&L, generación e implementación consolidación del MBS (Master Business Solution).
 Principales Logros:
 -Start Up del departamento Princing para Hub Regional.
 -Nominación: 3M Finance Beacon Award Program; 2011 Awardees Argentina Price Increase Execution.
