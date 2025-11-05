@@ -20,8 +20,29 @@
 
 ### *BACKGROUND LABORAL*
 
-  -	**NaranjaX**. Tecnical Lead Data Science: Squad Hiperpersonalización. Gerencia Data&IA (Sep-2024 - Actualidad)
-  #### *Tecnologías*: #AWS-SagesMaker, #Snowflake, #Matillon, #Data-Iku, #GSP, #Azure, #Langchain #Feature Store, #Gitlab, #S3, #Athena, #Python, #Databricks, #Docker
+  -	**NaranjaX**. Data Science Team Leader: Squad Hiperpersonalización. Hub Data&IA (Sep-2024 - Actualidad)
+
+    Liderazgo Técnico y Gestión de Equipos
+    - Coordinación team ciencia de datos enfocado en la creación de modelos de aprendizaje automático (ML) y aprendizaje automático (LLM) para hiperpersonalizar las experiencias de los clientes en diversas unidades de negocio.
+    - Managment squad: Apoyaban iniciativas de experiencia del cliente (CX), marketing, inclusión financiera y rentabilidad.
+    - Mejores prácticas para la gobernanza, el monitoreo y la observabilidad de los modelos a lo largo del ciclo de vida del aprendizaje automático.
+
+    Soluciones de Aprendizaje Automático e Inteligencia Artificial (IA)
+    - Desarrollo  modelos de aprendizaje automático, incluyendo clasificadores binarios, modelos multiclase, algoritmos de clustering y sistemas de pronóstico.
+    - Creé modelos especializados para NBP (Next Best Product), predicción de abandono, identificación de usuarios frecuentes, clustering de clientes, recomendación de promociones, proyección de ingresos y métricas de salud.
+    - Soluciones de análisis de Speech y Text para extraer información valiosa de las interacciones con los clientes.
+
+    Aplicaciones de IA Generativa y LLM
+    - Diseñé e implementé soluciones basadas en LLM, incluyendo un copiloto de IA y un chatbot de asesor financiero, utilizando ingeniería de prompts avanzada y arquitecturas RAG. - Se integraron marcos de detección de sesgos, observabilidad y monitoreo para garantizar una implementación responsable de la IA.
+    - Implementación IA generativa para mejorar la interacción con el cliente y automatizar los servicios de asesoría.
+    - Develop pipelines re-entraning ML/IA end-to-end.
+
+    Infraestructura técnica
+    -Flujos de trabajo de CI/CD con #GitLab y se orquestaron pipelines de datos con #Airflow.
+    -Monitoreo, trasabilidad, analisis de Bias And Drif
+    - Se estableció la observabilidad del monitoreo y se mejoraron los sistemas LLM con #HugginFace, #Langfuse y #DataDog.
+    
+  #### *Tecnologías*: #AWS-SagesMaker, #Bedrock, #Snowflake, #Matillon, #Data-Iku, #GSP, #Azure, #Langchain #Feature Store, #Gitlab, #S3, #Athena, #Python, #Databricks, #Docker
 
   -	**Director y docente Licenciatura Analítica Empresarial y Social (Data Science en ITBA** (ene-2021 a Presente). https://www.itba.edu.ar/blog/de-docente-a-director/
 
