@@ -44,8 +44,8 @@
     
   #### *Tecnologías*: #AWS-SagesMaker, #Bedrock, #Snowflake, #Matillon, #Data-Iku, #GSP, #Azure, #Langchain #Feature Store, #Gitlab, #S3, #Athena, #Python, #Databricks, #Docker
   
-  - ** UdeSA Docente Maestrica Marketing y Negocios** (Presente)
-  -	** ITBA Director y docente Licenciatura Analítica Empresarial y Social (Data Science) Instituto Tecnológico de Buenos Aires** (2020 a 2026). https://www.itba.edu.ar/blog/de-docente-a-director/
+  - **UdeSA Docente Maestrica Marketing y Negocios** (Presente)
+  -	**ITBA Director y docente Licenciatura Analítica Empresarial y Social (Data Science) Instituto Tecnológico de Buenos Aires** (2020 a 2026). https://www.itba.edu.ar/blog/de-docente-a-director/
 
   -	**Prisma Medios de Pago**. Data Science of Big Data & Analytics (Sep-2020 a Sep-2024):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) 
 *Proyectos*:
