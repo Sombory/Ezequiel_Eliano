@@ -43,8 +43,9 @@
     - Se estableció la observabilidad del monitoreo y se mejoraron los sistemas LLM con #HugginFace, #Langfuse y #DataDog.
     
   #### *Tecnologías*: #AWS-SagesMaker, #Bedrock, #Snowflake, #Matillon, #Data-Iku, #GSP, #Azure, #Langchain #Feature Store, #Gitlab, #S3, #Athena, #Python, #Databricks, #Docker
-
-  -	**Director y docente Licenciatura Analítica Empresarial y Social (Data Science en ITBA** (ene-2021 a Presente). https://www.itba.edu.ar/blog/de-docente-a-director/
+  
+  - ** UdeSA Docente Maestrica Marketing y Negocios** (Presente)
+  -	** ITBA Director y docente Licenciatura Analítica Empresarial y Social (Data Science) Instituto Tecnológico de Buenos Aires** (2020 a 2026). https://www.itba.edu.ar/blog/de-docente-a-director/
 
   -	**Prisma Medios de Pago**. Data Science of Big Data & Analytics (Sep-2020 a Sep-2024):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) 
 *Proyectos*:
@@ -84,8 +85,8 @@ Principales Logros:
 
 
 ### *ACTIVIDADES DE DOCENCIA*
-
-  - Docente Titular. Modelos Predictivos. ITBA (Instituto Tecnológico de Buenos Aires). 2019-prente.
+  - Docente Titular Estadística y Métricas. UdeSA (Universidad de San Andrés). 2026-Presente
+  - Docente Titular (PMR). Modelos Predictivos y Data Science. ITBA (Instituto Tecnológico de Buenos Aires). 2020-2026.
   - Docente adjunto. Taller de Economía Aplicada. Pontificia Universidad Católica Argentina Santa María de los Buenos Aires (UCA). 2018-2020.
   - Docente adjunto. Economía Aplicada. Escuela Argentina de Negocios (EAN). 2018-2020
   - Docente ayudante de primera Materia Metodología y Epistemología para la economía. Maestría en Tributación Internacional. UBA-FCE (2017). Cátedra Victoria Guiarrizzo
