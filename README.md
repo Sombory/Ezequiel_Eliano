@@ -20,9 +20,9 @@
 
 ### *BACKGROUND LABORAL*
 
-  -	**NaranjaX**. Data Science Team Leader: Squad Hiperpersonalización. Hub Data&IA (Ago-2024 - Actualidad)
+-	**NaranjaX**. Data Science Team Leader: Squad Hiperpersonalización. Hub Data&IA (Ago-2024 - Actualidad)
 
-   -**Liderazgo técnico y gestión de equipos**
+  -**Liderazgo técnico y gestión de equipos**
 
     -  Coordinación del equipo de ciencia de datos, enfocado en modelos de ML y LLM para hiperpersonalizar la experiencia de clientes en distintas unidades de negocio.
     -  Gestión del squad: soporte a iniciativas de experiencia del cliente (CX), marketing, inclusión financiera y rentabilidad.
@@ -42,7 +42,7 @@
     -  Modelos de NBP (Next Best Product), predicción de abandono, identificación de usuarios frecuentes, clustering de clientes, recomendación de promociones, proyección de ingresos y métricas de salud.
     -  Análisis de Speech y Text para extraer información de las interacciones con clientes.
 
--**IA generativa, LLM y agentes**
+ -**IA generativa, LLM y agentes**
 
     -  Diseño e implementación de un copiloto de IA y un chatbot de asesor financiero, con prompt engineering avanzado y arquitecturas RAG, para mejorar la interacción con el cliente y automatizar la asesoría.
     -  IA Analyzer: solución de análisis asistido por IA basada en agentes, construida con LangChain y Amazon Bedrock.
@@ -50,18 +50,19 @@
     -  Agentización de procesos de la práctica y del negocio, con guardrails y criterios de Compliance.
     -  Detección de sesgos para una implementación responsable de la IA.
 
--**Infraestructura, MLOps y observabilidad**
-
+ -**Infraestructura, MLOps y observabilidad**
+ 
     -  Pipelines de reentrenamiento ML/IA end-to-end, con CI/CD en GitLab y orquestación en Airflow.
-    -Monitoreo, trazabilidad y análisis de bias y drift.
-    -Observabilidad de sistemas LLM y agentes con Hugging Face, Langfuse y Datadog: métricas de latencia, consumo de tokens, errores y calidad de respuesta, con dashboards y alertas en producción.
+    -  Monitoreo, trazabilidad y análisis de bias y drift.
+    -  Observabilidad de sistemas LLM y agentes con Hugging Face, Langfuse y Datadog: métricas de latencia, consumo de tokens, errores y calidad de respuesta, con dashboards y alertas en producción.
 
 #Tecnologías: AWS (SageMaker, Bedrock, S3, Athena), Snowflake, dbt, Matillion, Dataiku, GCP, Azure, Databricks, LangChain, Feature Store, MLflow, GitLab, Airflow, Datadog, Langfuse, Python, Docker, uv.
   
-  - **UdeSA Docente Maestría Marketing y Negocios** (2026- Presente)
-  -	**ITBA Director y docente Licenciatura Analítica Empresarial y Social (Data Science) Instituto Tecnológico de Buenos Aires** (2020 a 2026). https://www.itba.edu.ar/blog/de-docente-a-director/
+- **UdeSA Docente Maestría Marketing y Negocios** (2026- Presente)
+-	**ITBA Director y docente Licenciatura Analítica Empresarial y Social (Data Science) Instituto Tecnológico de Buenos Aires** (2020 a 2026). https://www.itba.edu.ar/blog/de-docente-a-director/
 
-  -	**Prisma Medios de Pago**. Data Science of Big Data & Analytics (Sep-2020 a Sep-2024):  I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) 
+-	**Prisma Medios de Pago**. Data Science of Big Data & Analytics (Sep-2020 a Sep-2024):
+I+D y Deploy de modelos predictivos y clasificación de bases transaccionales de VISA, Todo Pago, Pago Mis Cuentas y Banelco (mediante algoritmos de XGBoost, Redes Neuronales, SVR) 
 *Proyectos*:
     - Modelo de Churn (ADABoost, XGboost, Lineal Lerner)
     - Molelos Predictivo Fallas de Terminales (algoritmo: xgboost, lightgbm)
