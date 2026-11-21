@@ -20,29 +20,46 @@
 
 ### *BACKGROUND LABORAL*
 
-  -	**NaranjaX**. Data Science Team Leader: Squad Hiperpersonalización. Hub Data&IA (Sep-2024 - Actualidad)
+  -	**NaranjaX**. Data Science Team Leader: Squad Hiperpersonalización. Hub Data&IA (Ago-2024 - Actualidad)
 
     Liderazgo Técnico y Gestión de Equipos
-    - Coordinación team ciencia de datos enfocado en la creación de modelos de aprendizaje automático (ML) y aprendizaje automático (LLM) para hiperpersonalizar las experiencias de los clientes en diversas unidades de negocio.
+    - Coordinación team ciencia de datos enfocado en la creación de modelos de aprendizaje automático (ML) y aprendizaje                 automático (LLM) para hiperpersonalizar las experiencias de los clientes en diversas unidades de negocio.
     - Managment squad: Apoyaban iniciativas de experiencia del cliente (CX), marketing, inclusión financiera y rentabilidad.
-    - Mejores prácticas para la gobernanza, el monitoreo y la observabilidad de los modelos a lo largo del ciclo de vida del aprendizaje automático.
+    - Mejores prácticas para la gobernanza, el monitoreo y la observabilidad de los modelos a lo largo del ciclo de vida del             aprendizaje automático.
 
     Soluciones de Aprendizaje Automático e Inteligencia Artificial (IA)
-    - Desarrollo  modelos de aprendizaje automático, incluyendo clasificadores binarios, modelos multiclase, algoritmos de clustering y sistemas de pronóstico.
-    - Creé modelos especializados para NBP (Next Best Product), predicción de abandono, identificación de usuarios frecuentes, clustering de clientes, recomendación de promociones, proyección de ingresos y métricas de salud.
-    - Soluciones de análisis de Speech y Text para extraer información valiosa de las interacciones con los clientes.
+   	- Data Science Expert · Líder de la práctica de Data Science cross-squad Ene 2026 – Actualidad
+      ▪  Lidero la práctica de Data Science end-to-end de forma transversal a todos los squads del Hub.
+      ▪ Revisión y estandarización de pipelines de modelos en ambientes no-prod, staging y prod.
+      ▪ Optimización del time-to-prod: prácticas de MLEng, seguridad, auditoría y alineamiento de la práctica con
+        Compliance.
+      ▪ Onboarding de data scientists y definición del plan de carrera de la práctica.
+      ▪ Incorporación de nuevas tecnologías y métricas de la práctica: uv, MLflow, Feature Store, Amazon Bedrock y
+       agentización de tareas.
+      ▪ IA Analyzer: diseño e implementación de una solución de análisis asistido por IA basada en agentes, construida con
+        LangChain y Amazon Bedrock.
+      ▪ Orquestación multiagente: arquitectura de agentes especializados coordinados por un orquestador, con uso de
+        herramientas, planificación y delegación de tareas.
+      ▪ Agentización de procesos: automatización de tareas de la práctica y del negocio mediante agentes, con guardrails y
+        criterios de Compliance.
+      ▪ Observabilidad y métricas en Datadog: definición de métricas de medición de agentes y LLM (latencia, consumo de
+        tokens, errores y calidad de respuesta) con dashboards y alertas para monitoreo en producción.
+        Tecnologías: LangChain, Amazon Bedrock, Datadog, Langfuse, MLflow, Feature Store, uv, Python
+      ▪ Desarrollo  modelos de aprendizaje automático, incluyendo clasificadores binarios, modelos multiclase, algoritmos de              clustering y sistemas de pronóstico.
+      ▪ Creé modelos especializados para NBP (Next Best Product), predicción de abandono, identificación de usuarios frecuentes,           clustering de clientes, recomendación de promociones, proyección de ingresos y métricas de salud.
+      ▪ Soluciones de análisis de Speech y Text para extraer información valiosa de las interacciones con los clientes.
 
     Aplicaciones de IA Generativa y LLM
-    - Diseñé e implementé soluciones basadas en LLM, incluyendo un copiloto de IA y un chatbot de asesor financiero, utilizando ingeniería de prompts avanzada y arquitecturas RAG. - Se integraron marcos de detección de sesgos, observabilidad y monitoreo para garantizar una implementación responsable de la IA.
+    - Diseñé e implementé soluciones basadas en LLM, incluyendo un copiloto de IA y un chatbot de asesor financiero, utilizando         ingeniería de prompts avanzada y arquitecturas RAG. - Se integraron marcos de detección de sesgos, observabilidad y               monitoreo para garantizar una implementación responsable de la IA.
     - Implementación IA generativa para mejorar la interacción con el cliente y automatizar los servicios de asesoría.
     - Develop pipelines re-entraning ML/IA end-to-end.
 
     Infraestructura técnica
-    -Flujos de trabajo de CI/CD con #GitLab y se orquestaron pipelines de datos con #Airflow.
-    -Monitoreo, trasabilidad, analisis de Bias And Drif
+    - Flujos de trabajo de CI/CD con #GitLab y se orquestaron pipelines de datos con #Airflow.
+    - Monitoreo, trasabilidad, analisis de Bias And Drif
     - Se estableció la observabilidad del monitoreo y se mejoraron los sistemas LLM con #HugginFace, #Langfuse y #DataDog.
     
-  #### *Tecnologías*: #AWS-SagesMaker, #Bedrock, #Snowflake, #Matillon, #Data-Iku, #GSP, #Azure, #Langchain #Feature Store, #Gitlab, #S3, #Athena, #Python, #Databricks, #Docker
+  #### *Tecnologías*: #AWS-SagesMaker, #Bedrock, #Snowflake, #DBT, #Matillon, #Data-Iku, #GSP, #Azure, #Langchain #Feature Store, #Gitlab, #S3, #Athena, #Python, #Databricks, #Docker
   
   - **UdeSA Docente Maestría Marketing y Negocios** (Presente)
   -	**ITBA Director y docente Licenciatura Analítica Empresarial y Social (Data Science) Instituto Tecnológico de Buenos Aires** (2020 a 2026). https://www.itba.edu.ar/blog/de-docente-a-director/
